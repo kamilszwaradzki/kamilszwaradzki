@@ -43,9 +43,9 @@ Currently expanding into **Python/Django** and **Java/Spring**.
 ---
  
 ### 🛠️ Tech
-**Backend:** PHP, Symfony, Laravel, Python, Django, Java, Spring
-**Data & messaging:** PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ
-**Frontend:** Vue.js, TypeScript, Angular, Chart.js
+**Backend:** PHP, Symfony, Laravel, Python, Django, Java, Spring\
+**Data & messaging:** PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ\
+**Frontend:** Vue.js, TypeScript, Angular, Chart.js\
 **Tools:** Docker, Git, GitHub Actions, Linux
  
 🎓 Computer Systems Engineering (part-time), UWM Olsztyn · ISO/IEC 27001 Lead Auditor
